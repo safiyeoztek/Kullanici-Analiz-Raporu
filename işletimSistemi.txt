@@ -1,0 +1,15 @@
+*İşletim sistemi nedir ve neden gereklidir?*
+
+- İşletim sistemi olmazsa ne olur?
+- Donanım–yazılım ilişkisi
+- Windows / Linux / macOS farkı
+
+İşletim sistemi kullanıcı ile donanım arasındaki iletişimi sağlayan temel yazılımdır.
+İşletim sistemi donanım yönetimi, programramların çalışması, RAM ve dosya sistemi yönetimi gibi birçok eylemi gerçekleştirir.
+Bu yüzden, işletim sistemi olmazsa kullanıcı arayüzü, dosya sistemi, programların hiçbiri çalışmaz.
+Donanım bilgisayarın CPU, RAM, SSD, mouse, klavye gibi fiziksel parçalarıdır.
+Yazılım ise işletim sistemi, uygulamalar, uygulamalar gibi bilgisayarda çalışan uygulamalardır.
+Yazılım işletim sistemi yardımıyla donanıma komut verir ve kullanır. En yaygın 3 işletim sistemleri Windows, Linux ve macOS'tur.
+Windows aralarında en yaygın olandır. Program desteği geniş ancak güvenlik konusunda daha risklidir.
+Linux açık kaynak ve güvenlidir ancak yeni başlayanlar için kullanımı zor olabilir.
+macOS sadece Apple bilgisayarlarda çalışır. Stabil ve güvenli ancak maliyeti yüksektir.
